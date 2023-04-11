@@ -1,0 +1,151 @@
+Id	Source	Req. Timestamp	Method	URL	Code	Reason	RTT	Size Resp. Body	Highest Alert	Note	Tags
+1	Proxy	Mon Apr 10 20:15:41 IST 2023	GET	https://location.services.mozilla.com/v1/country?key=91e66841-a83b-487f-9b5d-e460f5225ebf	200	OK	1290	47	Medium	FALSE	JSON
+3	Proxy	Mon Apr 10 20:15:42 IST 2023	GET	https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=query-stripping&bucket=main&_expected=0	200	OK	428	223	Medium	FALSE	JSON
+4	Proxy	Mon Apr 10 20:15:43 IST 2023	GET	https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/query-stripping/changeset?_expected=1678736907773	200	OK	41	1854	Medium	FALSE	JSON
+5	Proxy	Mon Apr 10 20:15:41 IST 2023	POST	https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=102.6&pver=2.2	200	OK	1509	1967	Low	FALSE	
+17	Proxy	Mon Apr 10 20:15:43 IST 2023	GET	https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2023-05-20-17-04-38.chain	200	OK	229	5348	Low	FALSE	
+20	Proxy	Mon Apr 10 20:15:43 IST 2023	GET	https://www.fnp.com/	200	OK	1032	741252	Low	FALSE	"Form, Hidden, Script, SetCookie, Comment"
+22	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=partitioning-exempt-urls&bucket=main&_expected=0	200	OK	35	232	Medium	FALSE	JSON
+28	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/partitioning-exempt-urls/changeset?_expected=1675943045406	200	OK	48	2387	Medium	FALSE	"Comment, JSON"
+31	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/framework.js	200	OK	163	138775	Low	FALSE	Script
+37	Proxy	Mon Apr 10 20:15:44 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/ads-track-digest256/102.0/1657213547	200	OK	1502	55894	Low	FALSE	Comment
+41	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://assets.adobedtm.com/ccc5671961f3/e469aacf094a/launch-7d4e04985e9e.min.js	200	OK	363	251411	Low	FALSE	"Script, Comment"
+42	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/main.js	200	OK	410	60820	Informational	FALSE	
+43	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/css/239.css	200	OK	268	2063		FALSE	
+47	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/webpack.js	200	OK	287	6386	Low	FALSE	
+48	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/239.js	200	OK	261	9023		FALSE	
+50	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/commons.js	200	OK	161	34013	Informational	FALSE	
+53	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/8749.js	200	OK	208	10520		FALSE	
+54	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/pages/desktop-home.js	200	OK	154	4265		FALSE	Script
+52	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/css/pages/_app.css	200	OK	497	152819	Low	FALSE	
+55	Proxy	Mon Apr 10 20:15:45 IST 2023	GET	https://www.googletagmanager.com/gtm.js?id=GTM-MV7NN7	200	OK	555	400631	Medium	FALSE	"Script, Comment"
+57	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/4-3-2023/_buildManifest.js	200	OK	83	2402	Low	FALSE	
+56	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/4-3-2023/_ssgManifest.js	200	OK	80	77		FALSE	
+59	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/assets/css/custom/splide.min.css	200	OK	102	5949	Low	FALSE	
+69	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://www.fnp.com/assets/js/custom/splide.min.js	200	OK	370	27529	Low	FALSE	Comment
+72	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js	200	OK	444	80288	Medium	FALSE	Comment
+73	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://www.fnp.com/assets/fonts/RxZJdnzeo3R5zSexge8UUZBw1xU1rKptJj_0jans920.woff2	200	OK	94	10236	Low	FALSE	
+75	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://www.fnp.com/assets/fonts/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2	200	OK	137	10200	Low	FALSE	Comment
+74	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://www.fnp.com/assets/fonts/Hgo13k-tfSpn0qi1SFdUfbO3LdcAZYWl9Si6vvxL-qU.woff	200	OK	95	13500	Low	FALSE	
+76	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://www.fnp.com/assets/css/material-fonts.woff2	200	OK	175	102728	Low	FALSE	Comment
+79	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/social-track-digest256/102.0/1657213547	200	OK	200	2133	Low	FALSE	
+80	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://assets.adobedtm.com/ccc5671961f3/e469aacf094a/34f0816e3222/EX73b4c19a5beb46e4bb612b1855d10414-libraryCode_source.min.js	200	OK	201	46115	Low	FALSE	
+93	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/pages/_app.js	200	OK	706	1244016	Medium	FALSE	"Hidden, Comment"
+94	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/102.0/1657213547	200	OK	207	9973	Low	FALSE	
+97	Proxy	Mon Apr 10 20:15:47 IST 2023	GET	https://dpm.demdex.net/id?d_visid_ver=4.6.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=43C357DF589484E40A495D80%40AdobeOrg&d_nsid=0&ts=1681137946339	200	OK	1350	222	Low	FALSE	"SetCookie, JSON"
+101	Proxy	Mon Apr 10 20:15:48 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/content-track-digest256/102.0/1657213547	200	OK	281	15542	Low	FALSE	
+99	Proxy	Mon Apr 10 20:15:48 IST 2023	GET	https://www.googletagmanager.com/gtag/js?id=G-Q3470S4J87&l=dataLayer&cx=c	200	OK	470	248208	Medium	FALSE	Comment
+105	Proxy	Mon Apr 10 20:15:49 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/7675.js	200	OK	89	1574		FALSE	
+106	Proxy	Mon Apr 10 20:15:46 IST 2023	GET	https://cdpjs.fnp.com/cdp_js/cdp.js	200	OK	3347	48202	Low	FALSE	
+109	Proxy	Mon Apr 10 20:15:49 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/1884.js	200	OK	176	16340	Low	FALSE	
+110	Proxy	Mon Apr 10 20:15:49 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/8426.js	200	OK	176	5064		FALSE	
+111	Proxy	Mon Apr 10 20:15:49 IST 2023	GET	https://www.google-analytics.com/analytics.js	200	OK	276	50234	Low	FALSE	"Script, Comment"
+113	Proxy	Mon Apr 10 20:15:49 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/102.0/1657213547	200	OK	441	322359	Low	FALSE	Comment
+114	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/2529.js	200	OK	212	17347	Informational	FALSE	
+116	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://cdpjs.fnp.com/cdp_js/cdp-fingerprint.js	200	OK	107	30691	Low	FALSE	
+115	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/29107295.js	200	OK	223	71675	Low	FALSE	Comment
+119	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://www.fnp.com/d/control/getCurrencies	200	OK	254	1985	Low	FALSE	
+120	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/7507.js	200	OK	246	11804		FALSE	
+121	Proxy	Mon Apr 10 20:15:50 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/5138.js	200	OK	148	24245	Informational	FALSE	
+124	Proxy	Mon Apr 10 20:15:51 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/css/701.css	200	OK	120	23272		FALSE	
+125	Proxy	Mon Apr 10 20:15:51 IST 2023	GET	https://www.fnp.com/r2/fork/_next/static/chunks/701.js	200	OK	111	12563	Informational	FALSE	
+126	Proxy	Mon Apr 10 20:15:51 IST 2023	GET	https://api-live.fnp.com/productapi/api/rest/v1.3/ghp	200	OK	282	202	Low	FALSE	"SetCookie, JSON"
+140	Proxy	Mon Apr 10 20:15:50 IST 2023	OPTIONS	https://atcdel.fnp.com/beautyplus/v1/sites/featureConfig/getFeatureStatus?featureName=date_lock	200	OK	1101	0		FALSE	
+141	Proxy	Mon Apr 10 20:15:51 IST 2023	POST	https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j99&tid=UA-5956906-1&cid=596319172.1681137950&jid=2051263908&gjid=1799300495&_gid=2112800561.1681137951&_u=YCDAgEABAAAAAEAAI~&z=1124764512	200	OK	413	7		FALSE	
+144	Proxy	Mon Apr 10 20:15:51 IST 2023	POST	https://analytics.google.com/g/collect?v=2&tid=G-Q3470S4J87&gtm=45je3430&_p=844525071&_gaz=1&cid=596319172.1681137950&ul=en-us&sr=1416x840&_s=1&sid=1681137950&sct=1&seg=0&dl=https%3A%2F%2Fwww.fnp.com%2F&dt=FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.&en=page_view&_fv=1&_nsi=1&_ss=2	204	No Content	327	0	Medium	FALSE	
+152	Proxy	Mon Apr 10 20:15:52 IST 2023	GET	https://cdpjs.fnp.com/cdp_js/cdp-menu-desktop.js	200	OK	288	788	Low	FALSE	
+153	Proxy	Mon Apr 10 20:15:52 IST 2023	GET	https://atcdel.fnp.com/beautyplus/v1/sites/featureConfig/getFeatureStatus?featureName=date_lock	200	OK	197	35	Low	FALSE	JSON
+154	Proxy	Mon Apr 10 20:15:52 IST 2023	POST	https://stats.g.doubleclick.net/g/collect?v=2&tid=G-Q3470S4J87&cid=596319172.1681137950&gtm=45je3430&aip=1	204	No Content	333	0		FALSE	
+158	Proxy	Mon Apr 10 20:15:52 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/102.0/1657213547	200	OK	496	1470328	Low	FALSE	Comment
+166	Proxy	Mon Apr 10 20:15:52 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678	200	OK	188	51	Low	FALSE	
+168	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678	200	OK	174	51	Low	FALSE	
+170	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://atcdel.fnp.com/dooda/v1/widget/trendingNowWidget?widgetPath=d2lkZ2V0cy93d3cuZm5wLmNvbS9lbi9kZXNrdG9wL2hvbWUvdHJlbmRpbmdub3d3aWRnZXQ=&pageType=home&deviceType=Desktop&domain=fnp.com&geoId=india&pageUrl=/	200	OK	139	25063	Low	FALSE	"Script, Comment, JSON"
+172	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://atcdel.fnp.com/dooda/v1/widget/bestSellersWidget?widgetPath=d2lkZ2V0cy93d3cuZm5wLmNvbS9lbi9kZXNrdG9wL2hvbWUvYmVzdHNlbGxlcnN3aWRnZXQ=&pageType=home&deviceType=Desktop&domain=fnp.com&geoId=india&pageUrl=/	200	OK	146	25134	Low	FALSE	"Script, JSON"
+175	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://www.fnp.com/d/control/fus	200	OK	204	184	Low	FALSE	SetCookie
+176	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195	200	OK	206	6645	Low	FALSE	
+203	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://atcdel.fnp.com/dooda/v1/widget/recentlyViewedByYouWidget?widgetPath=d2lkZ2V0cy93d3cuZm5wLmNvbS9lbi9kZXNrdG9wL2hvbWUvcmVjZW50bHl2aWV3ZWR3aWRnZXQ=&pageType=home&deviceType=Desktop&domain=fnp.com&geoId=india&pageUrl=/&dname=www.fnp.com	200	OK	444	10914	Low	FALSE	"Script, Comment, JSON"
+207	Proxy	Mon Apr 10 20:15:53 IST 2023	GET	https://js-agent.newrelic.com/nr-spa-1216.min.js	200	OK	859	50049	Medium	FALSE	Comment
+233	Proxy	Mon Apr 10 20:15:54 IST 2023	GET	https://googleads.g.doubleclick.net/pagead/viewthroughconversion/982950353/?random=1681137953841&cv=11&fst=1681137953841&bg=ffffff&guid=ON&async=1&gtm=45He3430&u_w=1416&u_h=840&url=https%3A%2F%2Fwww.fnp.com%2F&hn=www.googleadservices.com&frm=0&tiba=FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.&auid=1271230311.1681137948&data=ecomm_pagetype%3Dhome&rfmt=3&fmt=4	200	OK	384	2684	Low	FALSE	"SetCookie, Comment"
+278	Proxy	Mon Apr 10 20:15:54 IST 2023	OPTIONS	https://cdp-events.fnp.com/event	200	OK	1699	0		FALSE	
+280	Proxy	Mon Apr 10 20:15:55 IST 2023	POST	https://cdp-events.fnp.com/event	400	Bad Request	201	32	Informational	FALSE	
+281	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://bat.bing.com/bat.js	200	OK	527	40608	Low	FALSE	
+282	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://static.hotjar.com/c/hotjar-451981.js?sv=6	200	OK	782	10294	Medium	FALSE	
+283	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://www.fnp.com/assets/js/serviceWorker-cdp.js	200	OK	89	3635	Low	FALSE	
+287	Proxy	Mon Apr 10 20:15:56 IST 2023	GET	https://bat.bing.com/p/action/5235334.js	204	No Content	148	0		FALSE	
+288	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://fnpindia.api.useinsider.com/ins.js?id=10006641	200	OK	357	784808	Medium	FALSE	"Script, SetCookie, Comment"
+292	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://dynamic.criteo.com/js/ld/ld.js?a=29584	200	OK	580	45258	Low	FALSE	
+296	Proxy	Mon Apr 10 20:15:55 IST 2023	GET	https://wchat.freshchat.com/js/widget.js	200	OK	1047	66300	Low	FALSE	
+299	Proxy	Mon Apr 10 20:15:56 IST 2023	GET	https://fnpindia.api.useinsider.com/worker-new.html	200	OK	63	10000	Medium	FALSE	Script
+300	Proxy	Mon Apr 10 20:15:56 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195	200	OK	195	83	Low	FALSE	
+302	Proxy	Mon Apr 10 20:15:56 IST 2023	GET	https://connect.facebook.net/en_US/fbevents.js	200	OK	207	109538	Low	FALSE	Comment
+305	Proxy	Mon Apr 10 20:15:56 IST 2023	GET	https://snippets.freshchat.com/js/freshchat-business-hours.js	200	OK	1081	3874	Low	FALSE	
+308	Proxy	Mon Apr 10 20:15:57 IST 2023	GET	https://gumi.criteo.com/syncframe?topUrl=www.fnp.com&origin=onetag	200	OK	411	14086	Medium	FALSE	"Script, SetCookie"
+310	Proxy	Mon Apr 10 20:15:57 IST 2023	GET	https://connect.facebook.net/signals/config/1026762097356376?v=2.9.100&r=stable	200	OK	658	386412	Low	FALSE	"Script, Comment"
+314	Proxy	Mon Apr 10 20:15:57 IST 2023	GET	"https://bat.bing.com/action/0?ti=5235334&Ver=2&mid=002a3d1f-93eb-4a6b-85bd-349ea8943ee9&sid=66631a00d7ae11edbab1e53a850f1d2c&vid=66637330d7ae11edb9c1b996ad321f61&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1416&sh=840&sc=24&nwd=1&tl=FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers,%20Cakes,%20Gift%20Hampers%20etc.&kw=Flower%20delivery,%20flower%20delivery%20online&p=https%3A%2F%2Fwww.fnp.com%2F&r=&lt=10256&evt=pageLoad&sv=1&rn=120750"	204	No Content	412	0	Medium	FALSE	SetCookie
+312	Proxy	Mon Apr 10 20:15:58 IST 2023	GET	https://wchat.freshchat.com/widget/config_iframe.html?host=https://wchat.freshchat.com&token=016233e7-5c4d-4f2f-a0b8-1247504c05cd&origin=https://www.fnp.com	200	OK	244	701	Medium	FALSE	Script
+317	Proxy	Mon Apr 10 20:15:57 IST 2023	GET	https://script.hotjar.com/modules.69d367ac7af64e17f043.js	200	OK	653	268988	Medium	FALSE	
+319	Proxy	Mon Apr 10 20:15:58 IST 2023	OPTIONS	https://cdp-events.fnp.com/event	200	OK	361	0		FALSE	
+320	Proxy	Mon Apr 10 20:15:58 IST 2023	GET	https://connect.facebook.net/signals/config/801430941273148?v=2.9.100&r=stable	200	OK	459	386159		FALSE	
+321	Proxy	Mon Apr 10 20:15:58 IST 2023	OPTIONS	https://cdp-events.fnp.com/id	200	OK	347	0		FALSE	
+322	Proxy	Mon Apr 10 20:15:58 IST 2023	POST	https://cdp-events.fnp.com/event	400	Bad Request	213	32		FALSE	
+323	Proxy	Mon Apr 10 20:15:58 IST 2023	POST	https://cdp-events.fnp.com/id	200	OK	294	36		FALSE	
+324	Proxy	Mon Apr 10 20:15:58 IST 2023	GET	https://wchat.freshchat.com/app/services/app/webchat/016233e7-5c4d-4f2f-a0b8-1247504c05cd/config?domain=aHR0cHM6Ly93d3cuZm5wLmNvbQ==	200	OK	1028	2351		FALSE	
+325	Proxy	Mon Apr 10 20:15:59 IST 2023	POST	https://cdp-events.fnp.com/event	200	OK	218	0		FALSE	
+331	Proxy	Mon Apr 10 20:15:59 IST 2023	GET	https://wchat.freshchat.com/widget/?token=016233e7-5c4d-4f2f-a0b8-1247504c05cd&referrer=aHR0cHM6Ly93d3cuZm5wLmNvbQ==&eagerLoad=true	200	OK	265	4669		FALSE	
+332	Proxy	Mon Apr 10 20:15:59 IST 2023	OPTIONS	https://carrier.useinsider.com/v2/contact/ucd/update	204	No Content	332	0		FALSE	
+337	Proxy	Mon Apr 10 20:15:59 IST 2023	GET	https://location.api.useinsider.com/?v=2&pId=10006641&	200	OK	379	265		FALSE	
+339	Proxy	Mon Apr 10 20:15:58 IST 2023	GET	"https://bam-cell.nr-data.net/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=11321&ck=1&ref=https://www.fnp.com/&be=1961&fe=10200&dc=4424&af=err,xhr,stn,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1681137943128,%22n%22:0,%22f%22:0,%22dn%22:4,%22dne%22:4,%22c%22:4,%22s%22:4,%22ce%22:4,%22rq%22:22,%22rp%22:29,%22rpe%22:29,%22dl%22:1929,%22di%22:4169,%22ds%22:4423,%22de%22:4428,%22dc%22:9618,%22l%22:10199,%22le%22:10256%7D,%22navigation%22:%7B%7D%7D&fcp=3962&ja=%7B%22windowInnerHeight%22:665,%22windowinnerWidth%22:1416,%22fnpPageType%22:%22home%22%7D&jsonp=NREUM.setToken"	200	OK	1765	49		FALSE	
+340	Proxy	Mon Apr 10 20:16:00 IST 2023	POST	https://carrier.useinsider.com/v2/contact/ucd/update	202	Accepted	264	46		FALSE	
+341	Proxy	Mon Apr 10 20:16:00 IST 2023	GET	https://assets.api.useinsider.com/css/info.min.css	200	OK	217	72043		FALSE	
+344	Proxy	Mon Apr 10 20:16:00 IST 2023	GET	https://eitri.api.useinsider.com/static/info.js	200	OK	336	45739		FALSE	
+347	Proxy	Mon Apr 10 20:16:00 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195	200	OK	289	73398		FALSE	
+351	Proxy	Mon Apr 10 20:16:00 IST 2023	POST	"https://bam-cell.nr-data.net/resources/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=17308&ck=1&ref=https://www.fnp.com/&st=1681137943128&ja=%7B%22windowInnerHeight%22:665,%22windowinnerWidth%22:1416,%22fnpPageType%22:%22home%22%7D"	200	OK	338	36		FALSE	
+354	Proxy	Mon Apr 10 20:16:00 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265	200	OK	179	115		FALSE	
+356	Proxy	Mon Apr 10 20:16:00 IST 2023	OPTIONS	https://carrier.useinsider.com/y/v2/z	204	No Content	335	0		FALSE	
+359	Proxy	Mon Apr 10 20:16:00 IST 2023	GET	"https://segment.api.useinsider.com/v4/segments/16811379568409520cd1b76.11a9748b?partnerid=10006641&fields=d9046420a819e1bc055dff07bdeecb54,e1c96ebcc3295b9b47f92bf1b0d6eba3,4e4261dad70f430c81dd321d4546df4d,350bc9f6586a74149639bce00fd429c7&"	200	OK	359	965		FALSE	
+363	Proxy	Mon Apr 10 20:16:01 IST 2023	POST	https://carrier.useinsider.com/y/v2/z	200	OK	284	1568		FALSE	
+364	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://wchat.freshchat.com/widget/css/widget.css?t=1681137959622	200	OK	929	8858		FALSE	
+366	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://fnpindia.api.useinsider.com/api/info/5892.24?pa=shopping-trigger&	200	OK	199	91324		FALSE	
+369	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/102.0/1657213547	200	OK	257	3573		FALSE	
+370	Proxy	Mon Apr 10 20:16:01 IST 2023	POST	https://in.hotjar.com/api/v2/client/sites/451981/visit-data?sv=6	200	OK	844	102		FALSE	
+379	Proxy	Mon Apr 10 20:16:01 IST 2023	POST	https://hit.api.useinsider.com/hit	200	OK	350	16		FALSE	
+380	Proxy	Mon Apr 10 20:16:01 IST 2023	POST	https://hit.api.useinsider.com/hit	200	OK	380	16		FALSE	
+385	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/hotline-web.d41d8cd98f00b204e9800998ecf8427e.css	200	OK	1554	0		FALSE	
+389	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/vendor.d64d219ca4493f67a3970efc52d51c86.css	200	OK	1671	24045		FALSE	
+390	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/102.0/1657213547	200	OK	216	2293		FALSE	
+391	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.d7bb504c27af5c66243a.css	200	OK	1730	235069		FALSE	
+395	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://www.facebook.com/tr/?id=801430941273148&ev=PageView&dl=https%3A%2F%2Fwww.fnp.com%2F&rl=&if=false&ts=1681137959080&sw=1416&sh=840&v=2.9.100&r=stable&ec=0&o=30&cs_est=true&fbp=fb.1.1681137958396.1106610339&it=1681137957589&coo=false&rqm=GET	200	OK	158	0		FALSE	
+396	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://www.facebook.com/tr/?id=1026762097356376&ev=Microdata&dl=https%3A%2F%2Fwww.fnp.com%2F&rl=&if=false&ts=1681137959082&cd%5BDataLayer%5D=%5B%5D&cd%5BMeta%5D=%7B%22title%22%3A%22FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.%22%2C%22meta%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%2C%22meta%3Akeywords%22%3A%22Flower%20delivery%2C%20flower%20delivery%20online%22%7D&cd%5BOpenGraph%5D=%7B%22og%3Atype%22%3A%22Gifts%20Website%22%2C%22og%3Asite_name%22%3A%22Ferns%20N%20petals%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.fnp.com%22%2C%22og%3Aimage%22%3A%22https%3A%2F%2Fi7.fnp.com%2Fassets%2Fimages%2FdefaultLogo.jpg%22%2C%22og%3Atitle%22%3A%22FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.%22%2C%22og%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%2C%22twitter%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%7D&cd%5BSchema.org%5D=%5B%5D&cd%5BJSON-LD%5D=%5B%5D&sw=1416&sh=840&v=2.9.100&r=stable&ec=1&o=30&fbp=fb.1.1681137958396.1106610339&it=1681137957589&coo=false&es=automatic&tm=3&rqm=GET	200	OK	127	0		FALSE	
+397	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://www.facebook.com/tr/?id=1026762097356376&ev=PageView&dl=https%3A%2F%2Fwww.fnp.com%2F&rl=&if=false&ts=1681137958413&sw=1416&sh=840&v=2.9.100&r=stable&ec=0&o=30&cs_est=true&fbp=fb.1.1681137958396.1106610339&it=1681137957589&coo=false&rqm=GET	200	OK	165	0		FALSE	
+399	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://www.facebook.com/tr/?id=801430941273148&ev=Microdata&dl=https%3A%2F%2Fwww.fnp.com%2F&rl=&if=false&ts=1681137959673&cd%5BDataLayer%5D=%5B%5D&cd%5BMeta%5D=%7B%22title%22%3A%22FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.%22%2C%22meta%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%2C%22meta%3Akeywords%22%3A%22Flower%20delivery%2C%20flower%20delivery%20online%22%7D&cd%5BOpenGraph%5D=%7B%22og%3Atype%22%3A%22Gifts%20Website%22%2C%22og%3Asite_name%22%3A%22Ferns%20N%20petals%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.fnp.com%22%2C%22og%3Aimage%22%3A%22https%3A%2F%2Fi7.fnp.com%2Fassets%2Fimages%2FdefaultLogo.jpg%22%2C%22og%3Atitle%22%3A%22FNP%3A%20India%27s%20%231%20Online%20Gift%20Store%20%7C%20Flowers%2C%20Cakes%2C%20Gift%20Hampers%20etc.%22%2C%22og%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%2C%22twitter%3Adescription%22%3A%22FNP%20India%E2%80%99s%20largest%20online%20gift%20shop%20for%20Flowers%2C%20Cakes%2C%20Plants%2C%20Personalised%20Gifts%20%26%20more.%20We%20promise%20%E2%9C%85%20midnight%20%26%20%E2%9C%85%20same-day%20delivery%20in%20India%20with%20FREE%20shipping!%22%7D&cd%5BSchema.org%5D=%5B%5D&cd%5BJSON-LD%5D=%5B%5D&sw=1416&sh=840&v=2.9.100&r=stable&ec=1&o=30&fbp=fb.1.1681137958396.1106610339&it=1681137957589&coo=false&es=automatic&tm=3&rqm=GET	200	OK	176	0		FALSE	
+403	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/102.0/1657213547	200	OK	192	468		FALSE	
+406	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/fd-messaging.cb85b820f0f4dd4950ad.css	200	OK	2180	235069		FALSE	
+407	Proxy	Mon Apr 10 20:16:03 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/102.0/1657213547	200	OK	202	148		FALSE	
+410	Proxy	Mon Apr 10 20:16:03 IST 2023	GET	https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/102.0/1657213547	200	OK	175	244		FALSE	
+413	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/3799.js	200	OK	2617	790460		FALSE	
+414	Proxy	Mon Apr 10 20:16:02 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/fd-messaging.cb4e8e622f77e38809b9.js	200	OK	1010	730528		FALSE	
+415	Proxy	Mon Apr 10 20:16:01 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/vendor.3474f8e0dcdb6126f26894076afa40d6.js	200	OK	2889	700665		FALSE	
+416	Proxy	Mon Apr 10 20:15:59 IST 2023	GET	https://gem.gbc.criteo.com/newidsd	200	OK	5444	20		FALSE	
+419	Proxy	Mon Apr 10 20:16:04 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.8bb484e792623ddf2e25.js	200	OK	842	4968		FALSE	
+420	Proxy	Mon Apr 10 20:16:05 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/notif.da662fefc5060dabf2859ea199198b14.mp3	206	Partial Content	41	4302		FALSE	
+421	Proxy	Mon Apr 10 20:16:05 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.f0e50d864072128887fc.js	200	OK	889	10843		FALSE	
+422	Proxy	Mon Apr 10 20:16:05 IST 2023	GET	https://wchat.freshchat.com/widget/js/co-browsing.js	200	OK	999	27109		FALSE	
+424	Proxy	Mon Apr 10 20:16:05 IST 2023	GET	https://wchat.freshchat.com/app/services/app/webchat/016233e7-5c4d-4f2f-a0b8-1247504c05cd/user	200	OK	726	63		FALSE	
+425	Proxy	Mon Apr 10 20:15:59 IST 2023	GET	https://ag.gbc.criteo.com/newidsd	200	OK	7285	19		FALSE	
+427	Proxy	Mon Apr 10 20:16:06 IST 2023	GET	https://wchat.freshchat.com/widget/css/cb.css?t=1681137966602	200	OK	241	1525		FALSE	
+428	Proxy	Mon Apr 10 20:16:06 IST 2023	GET	"https://wchat.freshchat.com/app/services/app/webchat/016233e7-5c4d-4f2f-a0b8-1247504c05cd/widget_info_v2?locales=en-US,en-US&platform=web"	200	OK	297	10656		FALSE	
+429	Proxy	Mon Apr 10 20:16:07 IST 2023	PUT	https://wchat.freshchat.com/app/services/app/webchat/016233e7-5c4d-4f2f-a0b8-1247504c05cd/user/2d61d10e-6d24-4fdb-8d0a-6e57f4446f83/activity?widgetInfoTraceId=4cf24a25-fe1c-43c0-bf22-596367718318	200	OK	250	17		FALSE	
+430	Proxy	Mon Apr 10 20:16:04 IST 2023	GET	https://rts-static-prod.freshworksapi.com/us/rts-min.js	200	OK	2459	83315		FALSE	
+435	Proxy	Mon Apr 10 20:16:07 IST 2023	GET	"https://gumi.criteo.com/sid/json?origin=onetag&domain=fnp.com&sn=FirefoxSyncframe&so=0&topUrl=www.fnp.com&idsd=1522760314,-1430100630&cw=1&lsw=1"	200	OK	329	299		FALSE	
+437	Proxy	Mon Apr 10 20:16:07 IST 2023	GET	https://sslwidget.criteo.com/event?a=29584&v=5.15.0&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26site_type%3Dd&p2=e%3Dvh&p3=e%3Ddis&adce=1&tld=fnp.com&dy=1&fu=https%253A%252F%252Fwww.fnp.com%252F&ceid=92656219-ad28-4064-8f68-387a21dc08bf&dtycbr=97647	200	OK	695	20		FALSE	
+439	Proxy	Mon Apr 10 20:16:06 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.c5738cd7d3ee37e67fa6.js	200	OK	862	60333		FALSE	
+440	Proxy	Mon Apr 10 20:16:06 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.ad95af2932b43d25c811.js	200	OK	862	275525		FALSE	
+441	Proxy	Mon Apr 10 20:16:07 IST 2023	GET	https://wchat.freshchat.com/app/services/app/webchat/016233e7-5c4d-4f2f-a0b8-1247504c05cd/faq/category?platform=web&locales=en-US%2Cen-US&since=&lastLocaleId=	200	OK	262	212		FALSE	
+443	Proxy	Mon Apr 10 20:16:07 IST 2023	GET	https://213931614512232.webpush.freshchat.com/index.html?ref=aHR0cHM6Ly93d3cuZm5wLmNvbQ==	200	OK	1526	31008		FALSE	
+445	Proxy	Mon Apr 10 20:16:08 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.628a675083b43474a40b.js	200	OK	847	137		FALSE	
+446	Proxy	Mon Apr 10 20:16:08 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/8627.css	200	OK	880	16082		FALSE	
+447	Proxy	Mon Apr 10 20:16:08 IST 2023	GET	https://assetscdn-wchat.freshchat.com/static/assets/chunk.11d90f755164bc5505e0.js	200	OK	967	49566		FALSE	
+450	Proxy	Mon Apr 10 20:16:10 IST 2023	POST	https://bam-cell.nr-data.net/resources/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=27682&ck=1&ref=https://www.fnp.com/&ptid=2793f7fa-0001-b9b4-d7ad-01876ba18652&st=1681137943128	200	OK	637	36		FALSE	
+451	Proxy	Mon Apr 10 20:16:20 IST 2023	POST	https://bam-cell.nr-data.net/resources/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=37708&ck=1&ref=https://www.fnp.com/&ptid=2793f7fa-0001-b9b4-d7ad-01876ba18652&st=1681137943128	200	OK	1008	36		FALSE	
+454	Proxy	Mon Apr 10 20:16:30 IST 2023	POST	https://bam-cell.nr-data.net/resources/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=47722&ck=1&ref=https://www.fnp.com/&ptid=2793f7fa-0001-b9b4-d7ad-01876ba18652&st=1681137943128	200	OK	1491	36		FALSE	
+455	Proxy	Mon Apr 10 20:16:40 IST 2023	POST	https://bam-cell.nr-data.net/resources/1/3b00c3b5d9?a=327276350&sa=1&v=1216.487a282&t=Unnamed%20Transaction&rst=57730&ck=1&ref=https://www.fnp.com/&ptid=2793f7fa-0001-b9b4-d7ad-01876ba18652&st=1681137943128	200	OK	795	36		FALSE	
